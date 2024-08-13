@@ -1,0 +1,11 @@
+ReadProcessMemory
+VirtualAllocEx
+WriteProcessMemory
+VirtualFreeEx
+SendMessage
+FindWindowEx
+GetWindowThreadProcessId
+OpenProcess
+GetWindowRect
+mciSendString
+GetForegroundWindow 
