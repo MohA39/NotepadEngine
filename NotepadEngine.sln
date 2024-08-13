@@ -5,7 +5,7 @@ VisualStudioVersion = 17.9.34701.34
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NotepadEngine", "NotepadEngine\NotepadEngine.csproj", "{188DCACB-3D21-46D9-86F4-C03733A800DA}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Example_FlappyBird", "Example\Example_FlappyBird.csproj", "{147F241A-66CA-4EF8-B2A4-800BAE421FE4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Example_FlappyBird", "Example_FlappyBird\Example_FlappyBird.csproj", "{147F241A-66CA-4EF8-B2A4-800BAE421FE4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

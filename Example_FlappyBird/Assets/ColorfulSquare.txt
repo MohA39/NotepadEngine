@@ -1,0 +1,13 @@
+🟥
+{FrameEnd}
+🟧
+{FrameEnd}
+🟨
+{FrameEnd}
+🟩
+{FrameEnd}
+🟦
+{FrameEnd}
+🟪
+{FrameEnd}
+🟫
